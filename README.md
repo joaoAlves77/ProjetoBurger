@@ -9,8 +9,8 @@
 
 ## Capturas de Tela
 
-![Captura de tela da página inicial](screenshots/homepage.png)
-![Captura de tela do menu de hambúrgueres](screenshots/menu.png)
+![Captura de tela 2024-04-27 195117](https://github.com/joaoAlves77/ProjetoBurger/assets/140833592/5d541dd4-a6b8-4e2c-a675-903d4e1d523c)
+![Captura de tela 2024-04-27 195125](https://github.com/joaoAlves77/ProjetoBurger/assets/140833592/7de362e0-f25d-4998-9c09-59bd7b88cb70)
 
 ## Instalação
 
